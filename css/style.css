@@ -1,7 +1,8 @@
 
 #header{
     padding-top: 70px;
-}  
+} 
+
 h1{
     font-family:'Bebas Neue', cursive;
     
@@ -47,8 +48,13 @@ h1{
      h1{
          font-size: 36px;
      }
-
+    
      
+  }
+  @media (max-width: 576px){
+    .logo-img{
+       width: 200px;
+    } 
   }
 
 
