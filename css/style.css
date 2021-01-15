@@ -1,0 +1,55 @@
+
+#header{
+    padding-top: 70px;
+}  
+h1{
+    font-family:'Bebas Neue', cursive;
+    
+}
+.bg-header{
+  background-color:  rgb(255, 251, 240);
+}
+.text-header{
+    color:rgb(250, 190, 76)
+}
+.btn-bg{
+    background-color: rgb(143, 169, 39);
+}
+.bg-img{
+    background-color: rgb(241, 241, 241);
+}
+.rounded-img{
+    border-radius: 20px;
+}
+.card-footer-bg{
+    background-color: white;
+    border-top:none;
+}
+.card-border{
+    border:none;
+}
+ .card-hover:hover{
+     background-color:rgb(241, 241, 241);;
+ }
+ .img-width{
+     width: 30px;
+     
+
+ }
+
+ 
+ 
+ @media (max-width: 768px) {
+    
+    .small-center {
+            text-align: center;
+     } 
+     h1{
+         font-size: 36px;
+     }
+
+     
+  }
+
+
+
